@@ -1,0 +1,9 @@
+/*
+* Copyright ${year} Pernambucanas S.A.
+*************************************************************
+*Nome     : ${file_name}
+*Autor    : ${user}
+*Data     : ${date}
+*Empresa  : Platform Builders
+*************************************************************
+*/

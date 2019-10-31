@@ -1,0 +1,10 @@
+#Organize Import Order
+#Mon Nov 23 11:17:40 BRST 2015
+2=org
+1=javax
+3=io
+0=java
+4=com
+5=br
+7=pernambucanas
+6=builders

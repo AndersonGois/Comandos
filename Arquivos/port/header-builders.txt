@@ -1,0 +1,9 @@
+/*
+* Copyright ${year} Platform Builders
+*************************************************************
+*Nome     : ${file_name}
+*Autor    : ${user}
+*Data     : ${date}
+*Empresa  : Platform Builders
+*************************************************************
+*/
